@@ -1,2 +1,5 @@
 # About Me
-My name is...
+My name is Karina Velasquez
+
+## Food
+My favorite food is: pizza
