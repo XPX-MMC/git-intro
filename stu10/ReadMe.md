@@ -3,3 +3,6 @@ My name is Michael Reid.
 
 ## Food
 My favorite food is curry chicken with roti. 
+
+### Hobbies
+My favorite hobbies are networking, online shopping, math problems, and cooking.
