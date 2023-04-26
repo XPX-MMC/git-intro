@@ -1,2 +1,4 @@
 # About Me
-My name is...
+My name is...Melissa Shaefer
+## Food 
+My favorite food is...Melissa SeaFood
