@@ -1,2 +1,2 @@
 # About Me
-My name is...
+My favorite hobby is snowboarding.
