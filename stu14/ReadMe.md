@@ -2,4 +2,4 @@
 My name is Sacoya 
 
 ## Food
-My favorite food is: chicken.
+My favorite food is: Beef.
