@@ -7,3 +7,6 @@ Pizza
 
 # Favorite Song
 Nimbus (Protocol 4)
+
+# Favorite Color
+Red
