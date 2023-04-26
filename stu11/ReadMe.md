@@ -1,2 +1,5 @@
 # About Me
-My name is...
+My name is Nicole
+
+## Food 
+My favorite food is: Gumbo
