@@ -1,5 +1,2 @@
 # About Me
-My name is Nicole
-
-## Food 
-My favorite food is: Gumbo
+My name favorite hobby is playing handball 
