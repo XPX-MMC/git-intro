@@ -1,5 +1,5 @@
 # About Me
-My name is...Reid
+My name is Michael Reid.
 
 ## Food
-My favorite food is curry chicken with roti.
+My favorite food is curry chicken with roti. 
