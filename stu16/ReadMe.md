@@ -8,3 +8,9 @@ Pizza
 Touch rugby
 Learning German
 Traveling
+
+# Favorite Bands
+Beyonce
+Sigrid
+Mark Forester
+Green Day
