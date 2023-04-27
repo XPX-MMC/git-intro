@@ -6,3 +6,6 @@ Seafood
 
 # Hobbies
 getting litty at the Cluuub
+
+# Music
+NuJazz
