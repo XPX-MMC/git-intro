@@ -10,3 +10,6 @@ Nimbus (Protocol 4)
 
 # Favorite Color
 Red
+
+# Favorite Pet
+Cat
