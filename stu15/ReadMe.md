@@ -9,3 +9,6 @@ My favorite hobbies are: Reading, cooking and walking
 
 # Favorite music
 My favorite song: Stayin Alive
+
+# Favorite musical
+My favorite musical band is: The Beatles
