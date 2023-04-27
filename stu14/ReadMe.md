@@ -6,3 +6,6 @@ My favorite food is: Beef.
 
 ## hobby
 my favorite hobby is trading options.
+
+## Bands
+my favorite band is TLC
