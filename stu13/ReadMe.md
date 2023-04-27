@@ -1,5 +1,8 @@
 # About Me
 My name is Rosie Gonzalez.
 
-## Favorite Food 
+# Favorite Food 
 My favorite food is tacos. 
+
+# Hobbies 
+My favorite hobby is working out.
