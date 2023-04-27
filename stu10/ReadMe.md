@@ -8,4 +8,4 @@ My favorite food is curry chicken with roti.
 My favorite hobbies are networking, online shopping, math problems, and cooking.
 
 ## Bands
-My favorite bands are Queen and Journeygit 
+My favorite bands are Queen and Journey. 
